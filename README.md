@@ -2,7 +2,10 @@
 
 # AIM:
 
+To troubleshoot a problem in an operating system.
+
 # PROCEDURE:
+
 ##  STEP 1 Run Playing Audio troubleshooter
 
 You can treat this tool as a first-aid solution for fixing audio problems. This in-built tool can find and fix audio problems automatically.Open the Settings app and go to System.Under System, go to Troubleshoot > Other troubleshooters.Click on Run next to Playing Audio troubleshooter.  
